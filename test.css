@@ -1,0 +1,29 @@
+.header{
+    top: 0;
+    border-bottom: 2px solid black;
+    width: 100%;
+}
+.footer{
+    border-top: 2px solid black;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+.buttons{
+    float: right;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.container{
+    padding: 20px 0px;
+    text-align: center;
+}
+.card{
+    float: left;
+    width: 31.33%;
+    padding: 5px;
+}
+table, th, td{
+    border: 1px solid black;
+}
